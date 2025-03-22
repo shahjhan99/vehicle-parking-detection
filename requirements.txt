@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+roboflow
+opencv-python
+numpy
+pillow
+matplotlib
